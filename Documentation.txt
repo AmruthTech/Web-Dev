@@ -1,0 +1,24 @@
+-> WHAT IS A PROJECT?
+
+DEF: Project is a task-based time bounded process. It means it should be done in limited time.
+* Project, means that what we are doing is to be done/executed previously and that we are modifying (or) updating by implementing some methods which makes easier to the user's.
+* Basically, projects are two types: Hardware and Software. Hardware comes under CIVIL, MECH, EEE, and ECE related. Software comes under Technical side.
+ 
+-> WHY WE SELECTED MUSIC PLAYER?
+
+We have selected this application inorder to bring the relaxation to people who are in different mood(i.e., sad,  depressed, happier, alone, etc..,).
+* People in many situations don't know what to do? At that time some people selects this option to be calm, relaxed state.
+
+-> WHY NOT SPOTIFY?
+
+Because, it needs database from internet. And that internet access needs subscriptions, and we didn't have that source. So, we go with some limited songs from offline.
+* Internet accessed database contains all types of songs which we need. Otherwise, some selected songs will be played.
+
+-> WHAT A PROJECT NEEDS?
+
+Basically, any project needs some ideology and requirements which are sufficient for that project.
+* Communication, Planning, Designing, Analysis, Testing and Deployment processes are required.
+
+-> TYPES OF SEARCH ENGINES?
+
+We have two types of search engines, those are text-based, and voice search.
